@@ -1,6 +1,5 @@
 # sparkoperator-demo
 
-
 This repo aims to setup sparkoperator in your local environment in minikube with simple steps.
 
 ## Prerequisites
@@ -14,6 +13,7 @@ Sets up the local environment with spark operator
 ```bash
 ./setup.sh
 ```
+--- 
 
 ## Run the spark sample application
 Run the application using the following command
@@ -31,3 +31,4 @@ Remove the installed files
 ```bash
 ./cleanup.sh
 ```
+---
